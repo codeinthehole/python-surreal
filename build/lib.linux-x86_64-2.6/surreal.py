@@ -1,4 +1,0 @@
-
-
-class Surreal(object):
-    pass 
